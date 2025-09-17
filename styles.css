@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.hidden{
+	/* visibility:hidden; space will be occupied in the web page */
+	display:none;/*no space is occupied*/
+}
+.visible{
+	display:inline-block;
+}
